@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning Java, JS, Python, C#
 - 💞️ I’m looking to collaborate on, I'don't lookinf to collobarate with anyone
 - 📫 How to reach me,  if u can try  
-- 😄 Pronouns: ...
-- ⚡ Fun fact: I like Pizza
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: Simba
 
 <!---
 Aleksy23/Aleksy23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
