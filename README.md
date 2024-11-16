@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Aleksy23
 - 👀 I’m interested in Minecraft and Social
-- 🌱 I’m currently learning Java, Python, C#
+- 🌱 I’m currently learning Java, JS, Python, C#
 - 💞️ I’m looking to collaborate on, I'don't lookinf to collobarate with anyone
 - 📫 How to reach me,  if u can try  
 - 😄 Pronouns: ...
